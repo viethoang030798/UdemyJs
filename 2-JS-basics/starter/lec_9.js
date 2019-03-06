@@ -4,7 +4,8 @@ var firstName = 'John';
 var age = 28;
 
 console.log(firstName + ' ' + age );
-// TYpe coercion ( transfer any data type into string to print)
+// TYpe coercion transfer any data type into string
+// to print (with similar content like 5 to "5")
 var job, isMarried;
 job = 'Teacher';
 isMarried = true;

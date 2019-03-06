@@ -28,7 +28,7 @@ switch (job) {
     console.log(firstName + " does something mystery!!");
 }
 
-switch (true) {
+switch (true) {  // check for which expression is true
   case age < 13:
     console.log(firstName + " is a boy");
     break;
@@ -37,5 +37,4 @@ switch (true) {
     break;
   default:
     console.log(firstName + " is a man");
-
 }
